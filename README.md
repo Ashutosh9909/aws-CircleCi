@@ -10,6 +10,6 @@ For this we will use a simple React Application. Firs we will setup our GitHub R
 
 ![4](https://user-images.githubusercontent.com/104639044/236661153-4b18e58c-bd34-4407-b031-951af0a88ec0.png)
 
-```
+
 Follow the link for step by step description :- https://youtu.be/WDy4-m4V76Q
-```
+
